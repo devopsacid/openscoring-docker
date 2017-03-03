@@ -1,9 +1,9 @@
 <h1>Openscoring docker container</h1>
 <h2>OPENSCORING-1.3-SNAPSHOT</h2>
 <br>
-Image version: Debian jessie
-Java: open-jdk-7
-Application: Openscoring-1.3-SNAPSHOT
+Linux image: Debian 8.7 - Jessie<br>
+JAVA: open-jdk-7<br>
+Application: Openscoring-1.3-SNAPSHOT<br>
 Port: 8080
 <br><br>
 <h2>application.conf</h2>
